@@ -1,0 +1,108 @@
+# תיקי הדר — Generative Engine Optimization Map
+
+> Tikei Hadar is a bag store with a name that evokes elegance and splendor ('Hadar' meaning glory/splendor in Hebrew). The brand likely focuses on stylish, quality bags for a fashion-conscious audience.
+
+---
+
+## Pages
+
+### בית
+https://-df4daf25.zappy5.app
+גלי את הקולקציה החדשה של תיקי הדר: תיקים לנשים איכותיים, תיקי יד מעצבים ישראל ועוד. קניית תיקים אונליין ישראל בקליק, ישירות מהיבואן. הצטרפי עכשיו לעולם של סטייל ונוחות!
+
+### אומנות
+https://-df4daf25.zappy5.app/craftsmanship
+מאחורי כל תיק איכותי מסתתר סיפור של אומנות מוקפדת. בואי לגלות איך תיקי הדר משלבים חומרי גלם יוקרתיים עם עיצוב מושלם, ומה הופך כל תיק יד מעצבים ישראל ליצירת אמנות של ממש.
+
+### אודות
+https://-df4daf25.zappy5.app/about
+תיקי הדר נולד מתוך אהבה לסטייל ולתחושת יוקרה יומיומית. הכירי את החזון שלנו, המחויבות לאיכות ללא פשרות, והדרך שבה אנחנו מביאים אלייך את התיקים הכי יפים, ישירות מהיבואן.
+
+### צור קשר
+https://-df4daf25.zappy5.app/contact
+יש לך שאלה על תיק גב לטיולים איכותי או תיק יד מעצבים? צוות תיקי הדר כאן בשבילך! מלאי את הפרטים ונחזור אלייך במהירות עם כל מה שצריך לדעת. ההרפתקה מתחילה בשיחה אחת.
+
+### Products
+https://-df4daf25.zappy5.app/products
+המוצרים שלנו - תיקי הדר
+
+### Cart
+https://-df4daf25.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-df4daf25.zappy5.app/checkout
+תשלום
+
+### Login
+https://-df4daf25.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-df4daf25.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-df4daf25.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-df4daf25.zappy5.app/product/:slug
+פרטי המוצר - תיקי הדר
+
+### Category
+https://-df4daf25.zappy5.app/category/:slug
+מוצרים - תיקי הדר
+
+### תודה שפנית אלינו
+https://-df4daf25.zappy5.app/thank-you
+תיקי הדר - תודה שפנית אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-df4daf25.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-df4daf25.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-df4daf25.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About תיקי הדר
+Tikei Hadar is a bag store with a name that evokes elegance and splendor ('Hadar' meaning glory/splendor in Hebrew). The brand likely focuses on stylish, quality bags for a fashion-conscious audience.
+
+## Services/Products
+- מכירת תיקים
+
+## Target Audience
+- מקצוענים עירוניים
+- חובבי אופנה צעירים
+- חובבי טיולים
+- כל האנשים כמעט
+
+## Industry
+Fashion Accessories / Bags Retail
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-df4daf25.zappy5.app/sitemap.xml
+- Robots: https://-df4daf25.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-df4daf25.zappy5.app/llms-full.txt
+- Products (JSON): https://-df4daf25.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-df4daf25.zappy5.app/product-feed.xml
